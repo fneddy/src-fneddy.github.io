@@ -1,0 +1,3 @@
+[submodule "fneddy.github.io"]
+	path = fneddy.github.io
+	url = git@github.com:fneddy/fneddy.github.io.git
