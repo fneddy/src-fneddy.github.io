@@ -14,6 +14,7 @@ build: $(output)
 
 $(output_dir)/%.html : $(input_dir)/%.md
 	pandoc --toc -B $(header) -A $(footer) -o $@ $<
+	cp license $(output_dir)
 
 clean:
 	rm -rf $(output_dir)/*
