@@ -1,3 +1,7 @@
+---
+pagetitle: About&Legal
+---
+
 ## Legal Notice
 
 I am [Eduard Stefes](mailto:eduard.stefes@gmail.com). This is my **personal** blog. Here I share content with my friends and Family. If you are not my Friend or Family you are allowed to consume it, but be aware that its was not created with the intend to be consumed by you.
